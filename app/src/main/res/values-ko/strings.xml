@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Youtube 스킵툴</string>
+    <string name="skip">Youtube광고스킵 자동클릭하기</string>
+    <string name="mute_ad">Youtube광고소리 제거하기</string>
+    <string name="n_n">앱사용을 위해서는 접근성권한을 수락하여야합니다. \n*이 앱은 접근성권한외에 그 어떤 권한도 필요하지 않습니다.인터넷도 사용하지 않습니다. \n*이 앱은 상업적인 광고나 사용에 불편을 주는 기능은 추가하지 않습니다.
+    </string>
+    <string name="permission_title">접근성 권한 필요</string>
+    <string name="permission_reason">앱사용을 위해서는 접근성권한을 필수로 사용됩니다. 접근성권한을 수락하여야만 해당기능을 사용할수 있습니다. 지금 허락하러 이동하시겠습니까?
+    </string>
+    <string name="move">이동</string>
+    <string name="cancel">취소</string>
+    <string name="accessibility_description">Youtube광고스킵에 사용됩니다.</string>
+    <string name="open_youtube">Youtube 열기</string>
+    <string name="manage_service">서비스 관리</string>
+    <string name="youtube_not_install">YoutTube가 설치되어 있지 않습니다.</string>
+    <string name="permission_off">접근성권한이 켜져있지 않습니다.</string>
+
+</resources>

@@ -1,0 +1,34 @@
+<resources>
+        
+    <string name="app_name">Youtube skip tool</string>
+        
+    <string name="skip">Skipping Youtube ads automatically</string>
+        
+    <string name="mute_ad">Removing Youtube ads</string>
+        
+    <string name="n_n">You must accept access permissions to use the app. \n * This app does not require any
+        permissions other than accessibility, and does not use the internet. \n * This app does not add  any ads.
+    </string>
+        
+    <string name="permission_title">Accessibility Required</string>
+        
+    <string name="permission_reason">Accessibility permissions are required for app use. You must accept accessibility
+        rights before you can use the feature. Would you like to move it now?
+            
+    </string>
+        
+    <string name="move">Move</string>
+        
+    <string name="cancel">Cancel</string>
+        
+    <string name="accessibility_description">Used to skip Youtube ads.</string>
+        
+    <string name="open_youtube">Open Youtube</string>
+        
+    <string name="manage_service">manage service</string>
+        
+    <string name="youtube_not_install">YoutTube not installed</string>
+    <string name="developed_by_" translatable="false">
+        <![CDATA[developed by rocklee,and any feedback please send email to readmycodetanos@gmail.com]]></string>
+    <string name="permission_off">Accessibility permission is not turned on.</string>
+</resources>
