@@ -7,7 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.tanos.skiptool"
+        applicationId "com.studiostar.adskip"
         minSdkVersion 19
         targetSdkVersion 28
         versionCode 4

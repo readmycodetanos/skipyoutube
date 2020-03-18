@@ -1,10 +1,10 @@
 <resources>
         
-    <string name="app_name">TubeAd skip tool</string>
+    <string name="app_name">Ad skip tool</string>
         
-    <string name="skip">Skipping TubeAd ads automatically</string>
+    <string name="skip">Skipping Ad ads automatically</string>
         
-    <string name="mute_ad">Removing TubeAd ads</string>
+    <string name="mute_ad">Removing Ad ads</string>
         
     <string name="n_n">You must accept access permissions to use the app. \n * This app does not require any
         permissions other than accessibility, and does not use the internet. \n * This app does not add  any ads.
@@ -21,9 +21,9 @@
         
     <string name="cancel">Cancel</string>
         
-    <string name="accessibility_description">Used to skip TubeAd ads.</string>
+    <string name="accessibility_description">Used to skip Ad ads.</string>
         
-    <string name="open_youtube">Open TubeAd</string>
+    <string name="open_youtube">Open Ad</string>
         
     <string name="manage_service">manage service</string>
         
